@@ -43,3 +43,6 @@ The primary objectives of this project are to address the following key question
 
 ## 5. Licensing, Authors, Acknowledgements
 This project was completed as part of the Udacity Data Scientist Nanodegree program. It is important to acknowledge Kaggle for providing the dataset. You can access the licensing information and additional descriptive details about the data through the Kaggle link [Boston Airbnb Data](http://insideairbnb.com/get-the-data/). Special thanks to Udacity for providing valuable learning resources and guidance throughout the project.
+
+## Blog Post
+[Exploring Boston’s Airbnb Trends: An Analytical Journey](https://medium.com/@alqahtaniranaali/exploring-bostons-airbnb-trends-an-analytical-journey-76e3bf39a3e2)
